@@ -1,5 +1,4 @@
-#ES6 문법정리 
-### (update 2021.05.12)
+ ### (update 2021.05.12)
 ## const/let 블록 스코프
 
 `var`의 변수스코프는 `function`단위, `const/let`은 `block` 단위, `const`는 상수, `let`는 변수
